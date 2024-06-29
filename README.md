@@ -1,2 +1,2 @@
 # codsoft_taskno_02
-C++ Programming Internship
+TASK 02:SIMPLE CALCULATOR
